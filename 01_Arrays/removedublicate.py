@@ -5,7 +5,5 @@ for x in array:
     if x not in seen:
         result.append(x)
         seen.add(x)
-        
-
 print(result)
              
