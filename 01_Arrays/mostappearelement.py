@@ -5,8 +5,7 @@ for x in arr:
     if count == 0:
         candidate = x
         count = 1 
-    elif x == x
- candidate:
+    elif x == candidate:
         count += 1
     elif x != candidate:
         count -= 1
